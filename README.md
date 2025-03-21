@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Math-Problem-Solver
 This Is a simple math Problem solver.
 =======
@@ -31,4 +30,3 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
->>>>>>> 40cba8e (math solver)
