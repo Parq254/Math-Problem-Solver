@@ -19,6 +19,15 @@ npm install
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+
+# Step 6: Building for Production
+Build the application:
+npm run build
+
+Preview the production build:
+npm run preview
+
+
 ```
 
 ## What technologies are used for this project?
