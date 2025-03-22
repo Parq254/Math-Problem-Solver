@@ -21,10 +21,10 @@ npm install
 npm run dev
 
 # Step 6: Building for Production
-## Build the application:
+# Build the application:
 npm run build
 
-## Preview the production build:
+# Preview the production build:
 npm run preview
 
 
